@@ -8,7 +8,8 @@ class demoController extends Controller
 {
     public function index(){
         $array = [
-            [
+            [ 
+                
                 'name' => 'php',
                 'framework' => 'laravel'
             ],
